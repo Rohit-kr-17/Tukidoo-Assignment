@@ -147,7 +147,7 @@ const VideoPlayer = () => {
 	return (
 		<div>
 			<ReactPlayer
-				url="https://www.youtube.com/watch?v=gQ5qVtoLMk4" // Replace with the URL of your video
+				url="https://www.youtube.com/watch?v=FFvyDue4HYY" // Replace with the URL of your video
 				controls={true}
 				width="100%"
 				height="560px"

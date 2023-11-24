@@ -9,7 +9,7 @@ import { LuBarChart2 } from "react-icons/lu";
 import user from "../assets/user.jpg";
 
 import logo from "../assets/logo.png";
-import Classroom from "./Classroom";
+
 function Navbar() {
 	return (
 		<>
